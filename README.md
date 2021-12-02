@@ -1,5 +1,5 @@
 # school-management-system
-a program in c using linked stacks to make a school management system.\
+a program in c using linked stack to make a school management system.\
 in this system each student has name,id,score,date of birth , address, phone number.
 #### you can:
 - add student
