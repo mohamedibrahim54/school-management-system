@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1638283030 source:c:\users\moibr\documents\c plus plus\school management system\studentstack.c
+
+1638481307 source:c:\users\moibr\documents\c plus plus\school management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"student_stack.h"
+
+1638399841 c:\users\moibr\documents\c plus plus\school management system\student_stack.h
+
+1638394013 source:c:\users\moibr\documents\c plus plus\school management system\student_stack.c
+	<stdio.h>
+	<stdlib.h>
+	"student_stack.h"
+
